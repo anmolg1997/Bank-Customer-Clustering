@@ -1,15 +1,15 @@
 # Bank-Customer-Clustering
 Cluster customers on the basis of attributes.
 
-#Problem Statement
+# Problem Statement
 The data is related with direct marketing campaigns of a Portuguese banking institution. Cluster customers on the basis of attributes.
 
 Note: This python demonstration is for understanding the use of K-Modes clustering algorithm.
 
-#Data
+# Data
 Only Categorical attributes of Bank Marketing Data Set(UCI Repository: https://archive.ics.uci.edu/ml/datasets/bank+marketing) are used for demonstration.
 
-#Attribute Information(Categorical):
+# Attribute Information(Categorical):
 
 age (numeric)
 job : type of job (categorical: 'admin.','blue-collar','entrepreneur','housemaid','management','retired','self-employed','services','student','technician','unemployed','unknown')
@@ -23,5 +23,5 @@ month: last contact month of year (categorical: 'jan', 'feb', 'mar', ..., 'nov',
 day_of_week: last contact day of the week (categorical: 'mon','tue','wed','thu','fri')
 poutcome: outcome of the previous marketing campaign (categorical: 'failure','nonexistent','success')
 
-#UCI Repository: 
+# UCI Repository: 
 https://archive.ics.uci.edu/ml/datasets/bank+marketing
